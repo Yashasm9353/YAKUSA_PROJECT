@@ -28,3 +28,8 @@ python project.py
 
 ## Limitations and next steps
 Data is from 1990, prices are capped, rows are district averages, and there are no neighbourhood features. Next: gradient boosting and external data.
+
+##AUTHOR
+YASHAS M (EC24I2007)
+SUJAN RAM S(EC24I2008)
+MUKESH MG (EC24I2020)
